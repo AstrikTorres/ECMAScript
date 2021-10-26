@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Entendiento ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstrikTorres/ECMAScript.git"
+  },
+  "author": "Astrik Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AstrikTorres/ECMAScript/issues"
+  },
+  "homepage": "https://github.com/AstrikTorres/ECMAScript#readme"
+}
